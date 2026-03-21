@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Viktor, and I'm a Senior Blockchain Developer and Web3 Content Creator
+
 <!--
 **ViktorKuzmanov/ViktorKuzmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
