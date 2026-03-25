@@ -12,7 +12,7 @@
 
 **Other Smart Contract Tooling:**
 
- - Chainlink (Oracles, VRF, Automation) • Slither • Echidna • Mythril • Flash Loans • Tenderly • the Graph • IPFS • Thirdweb SDK
+ - Chainlink (Oracles, VRF, Automation) • Slither • Echidna • Mythril • Tenderly • the Graph • IPFS • Thirdweb SDK
 
 
 ###  I have developed a wide range of Web3 projects, including:
