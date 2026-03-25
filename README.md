@@ -1,18 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Viktor</h1>
+<h3 align="center">Senior Blockchain Developer and Content Creator</h3>
 
-My name is Viktor, and I'm a Senior Blockchain Developer and Web3 Content Creator
+📝 I regularly make videos about blockchain on [https://www.youtube.com/@viktoronweb3/featured](https://www.youtube.com/@viktoronweb3/featured)
 
-<!--
-**ViktorKuzmanov/ViktorKuzmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Smart Contract Frameworks:**
+- Solidity (Advanced) • Yul (Inline Assembly) • Foundry • Hardhat • ethers.js • web3.js • Remix IDE 
+
+
+**Other Smart Contract Tooling:**
+
+ - Chainlink (Oracles, VRF, Automation) • Slither • Echidna • Mythril • Flash Loans • Tenderly • the Graph • IPFS • Thirdweb SDK
+
+
+###  I have developed a wide range of Web3 projects, including:
+
+- Payroll systems integrated with Chainlink oracles
+- DEX Aggregators and Exchanges
+- NFT Collections & Marketplaces
+- Crypto Slot Machine on-chain 
+- Token Curated Registries 
+- Soulbound Tokens 
+- Custom ERC-20 / ERC-721 / ERC-1155 tokens
+- Performed Flash Loans
+
+<h3 align="left"> 📫 Let's talk :</h3>
+<p align="left">
+
+**viktorblockchaindev@gmail.com**
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/viktorkuzmanov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/viktorkuzmanov/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@viktoronweb3/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@viktoronweb3/featured" height="30" width="40" /></a>
+</p>
