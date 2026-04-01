@@ -7,7 +7,7 @@
 ### 🛠️ Skills & Tools
 
 **Smart Contract Frameworks:**
-- Solidity (Advanced) • Yul (Inline Assembly) • Foundry • Hardhat • ethers.js • web3.js • Remix IDE 
+- Solidity (Advanced) • Rust • Yul (Inline Assembly) • Foundry • Hardhat • ethers.js • web3.js • Remix IDE 
 
 
 **Other Smart Contract Tooling:**
