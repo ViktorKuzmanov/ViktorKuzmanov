@@ -6,10 +6,10 @@
 
 ### 🛠️ Skills & Tools
 
-** AI Engeneering Skills:**
+**AI Engeneering Skills:**
 - Python • RAG (Retrieval-augmented generation) • LLMs • LangChain • LlamaIndex • Vector Databases • Embeddings
   
-** Web Development Skills:**
+**Web Development Skills:**
 - React.js (Advanced) • Node.js • Next.js • PostgreSQL • MongoDB • Docker
 
 **Smart Contract Frameworks:**
