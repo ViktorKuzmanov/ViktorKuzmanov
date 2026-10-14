@@ -1,22 +1,29 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
-<h3 align="center">Senior Blockchain Developer and Content Creator</h3>
+<h3 align="center">AI-First Software Developer and Content Creator</h3>
 
-📝 I regularly make videos about blockchain on [https://www.youtube.com/@viktoronweb3/featured](https://www.youtube.com/@viktoronweb3/featured)
+📝 I regularly make videos about Software Development on [https://www.youtube.com/@viktoronweb3/featured](https://www.youtube.com/@viktoronweb3/featured)
 
 
 ### 🛠️ Skills & Tools
+
+** AI Engeneering Skills:**
+- Python • RAG (Retrieval-augmented generation) • LLMs • LangChain • LlamaIndex • Vector Databases • Embeddings
+  
+** Web Development Skills:**
+- React.js (Advanced) • Node.js • Next.js • PostgreSQL • MongoDB • Docker
 
 **Smart Contract Frameworks:**
 - Solidity (Advanced) • Rust • Yul (Inline Assembly) • Foundry • Hardhat • ethers.js • web3.js • Remix IDE 
 
 
-**Other Smart Contract Tooling:**
+**Other Other Tooling:**
 
- - Chainlink (Data Feeds, Oracles, VRF) • Slither • Echidna • Mythril • Tenderly • the Graph • IPFS • Thirdweb SDK
+ - Docker, Codex, Claude Code, OpenCode,Chainlink (Data Feeds, Oracles, VRF) • Slither • Echidna • Mythril • Tenderly • the Graph • IPFS • Thirdweb SDK
 
 
-###  I have developed a wide range of Web3 projects, including:
+###  I have developed a wide range of projects, including:
 
+- AI-Powered Agricultural Recommendation Assistant
 - Payroll systems integrated with Chainlink oracles
 - DEX Aggregators and Exchanges
 - NFT Collections & Marketplaces
