@@ -7,7 +7,7 @@
 ### 🛠️ Skills & Tools
 
 **AI Engeneering Skills:**
-- Python • RAG (Retrieval-augmented generation) • LLMs • LangChain • LlamaIndex • Vector Databases • Embeddings • Semantic Search
+- Python • RAG (Retrieval-augmented generation) • AI Agents • LLMs • LangChain • LlamaIndex • Vector Databases • Embeddings • Semantic Search
   
 **Web Development Skills:**
 - React.js (Advanced) • Node.js • Next.js • PostgreSQL • MongoDB • Docker
