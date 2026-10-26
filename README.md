@@ -7,10 +7,10 @@
 ### 🛠️ Skills & Tools
 
 **AI Engeneering Skills:**
-- Python • RAG (Retrieval-augmented generation) • AI Agents • LLMs • LangChain • LlamaIndex • Vector Databases • Embeddings • Semantic Search
+- Python • RAG (Retrieval-augmented generation) • AI Agents • LLMs • LangGraph • LangChain • LlamaIndex • Langsmith • Vector Databases • Embeddings • Semantic Search • Human-in-the-loop (HITL)  • Semantic Search • Semantic Search • Semantic Search • Prompt Engeneering
   
 **Web Development Skills:**
-- React.js (Advanced) • Node.js • Next.js • PostgreSQL • MongoDB • Docker
+- React.js (Advanced) • Node.js • Next.js • PostgreSQL • MongoDB • Docker • Fast API • AWS • CI/CD
 
 **Smart Contract Frameworks:**
 - Solidity (Advanced) • Rust • Yul (Inline Assembly) • Foundry • Hardhat • ethers.js • web3.js • Remix IDE 
